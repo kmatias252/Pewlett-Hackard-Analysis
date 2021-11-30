@@ -32,8 +32,8 @@ Based on our analysis we can conclude that Pewlett Hackard will need to fill a l
 
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-  It is predicted that there will be 90389 job openings that will need to be filled as a result of the "silver tsunami". A          majority of the job openings will be "senior type roles" such as Senior Engineer and Senior Staff.
+  It is predicted that there will be 90,389 job openings that will need to be filled as a result of the "silver tsunami". A          majority of the job openings will be "senior type roles" such as Senior Engineer and Senior Staff.
     
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-  It is predicted that at Pewlett Hackard there will not be enough qualified retirement-ready employees in the department to mentor the next generation of employees. Bobby's managers will have to inform their hiring team to work on hiring more Senior Engineers and Senior Staff as well as recruiting more qualified employees to the mentorship.   
+  It is predicted that at Pewlett Hackard there will not be enough qualified retirement-ready employees in the department to mentor the next generation of employees. According to our analysis there will be 1,549 qualified mentors. Bobby's managers will have to inform their hiring team to work on hiring more employees, specifically Senior Engineers and Senior Staff which were the titles that held the most employees going to retire as well as recruiting more qualified employees to the mentorship.   
