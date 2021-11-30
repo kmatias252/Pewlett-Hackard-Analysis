@@ -2,7 +2,7 @@
 
 ## Overview of Pewlett Hackard Analysis:
 
-The purpose of this analysis is to...
+The purpose of this analysis is to use SQL to help Bobby give his manager insight on the number of retiring employees at Pewlett Hackard, their job titles and identify the employees eligible to participate in a mentorship program for when the "silver tsunami" occurs.
 
 ## Results:
 
