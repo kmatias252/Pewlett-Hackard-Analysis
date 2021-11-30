@@ -36,4 +36,4 @@ Based on our analysis we can conclude that Pewlett Hackard will need to fill a l
     
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-  It is predicted that at Pewlett Hackard there will not be enough qualified retirement-ready employees in the department to mentor the next generation of employees. Bobby's managers will have to inform their hiring team to work on hiring more Senior Engineers and Senior Staff as well as recruiting more qualified employees to the mentorship.    
+  It is predicted that at Pewlett Hackard there will not be enough qualified retirement-ready employees in the department to mentor the next generation of employees. Bobby's managers will have to inform their hiring team to work on hiring more Senior Engineers and Senior Staff as well as recruiting more qualified employees to the mentorship.   
