@@ -8,7 +8,7 @@ The purpose of this analysis is to use SQL to help Bobby give his manager insigh
 
 ### Deliverable 1: The Number of Retiring Employees by Title 
 
-1) Query was written to create a table of retiring employees who were born between January 1, 1952 and December 31, 1955. There were 90389 job openings as a result of the upcoming "silver tsunami".
+1) Query was written to create a table of retiring employees who were born between January 1, 1952 and December 31, 1955.
 
 <img width="391" alt="Screen Shot 2021-11-29 at 9 27 33 PM" src="https://user-images.githubusercontent.com/91925639/143975035-cf971db7-5a7f-4b9f-91f1-04d380a41f19.png">
 
